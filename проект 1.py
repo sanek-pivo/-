@@ -1,0 +1,6 @@
+print("automobil")
+print("a")
+print("l[-1]")
+print("mobil")
+print("libomotua")
+print("uooi")
